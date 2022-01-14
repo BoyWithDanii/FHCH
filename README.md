@@ -1,4 +1,10 @@
-# Chill love
+# Chill love [![Paypal][paypal-badge]][paypal-link]
+[paypal-badge]: https://img.shields.io/badge/Paypal-Donar!-%2300457C.svg?logo=paypal&style=flat-square
+[paypal-link]: https://paypal.me/lechuguinyt
+
+
+
+
 CH es una comunidad agradable en pleno crecimiento, enfocado para los jovenes de entre 13-20 años.
 Puedes entreternerte hablando en un [**chat general**](https://discord.com/channels/825339382105374750/858269275251671090) con otros usuarios o usar los bots del servidor
 
