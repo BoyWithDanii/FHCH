@@ -33,5 +33,3 @@ Jader es un bot privado y exclusivo del servidor de Chill Love, cuenta con un si
 ### Lenguajes usados
 - `JavaScript`
 - `Bytenode`
-
-<button type="button">Click Me!</button>
